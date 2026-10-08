@@ -1,3 +1,10 @@
+# Archivo: ejercicio2_combustible.py
+# Curso: Principios de Programación 1 - SOFT-01
+# Sección: SCV6
+# Integrante: Katherine Angulo Angulo
+# Fecha: octubre de 2026
+# Versión: 1.0
+# Propósito: Verificar si el combustible disponible es suficiente para la misión.
 # Constante de la misión
 RESERVA_COMBUSTIBLE = 10
 
