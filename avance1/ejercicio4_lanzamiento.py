@@ -1,3 +1,10 @@
+# Archivo: ejercicio4_lanzamiento.py
+# Curso: Principios de Programación 1 - SOFT-01
+# Sección: SCV6
+# Integrante: Katherine Angulo Angulo
+# Fecha: octubre de 2026
+# Versión: 1.0
+# Propósito: Verificar si se cumplen las condiciones para autorizar el lanzamiento.
 # Constante de la misión
 RESERVA_COMBUSTIBLE = 10
 # Entrada de datos
