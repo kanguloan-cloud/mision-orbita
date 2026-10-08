@@ -1,3 +1,10 @@
+# Archivo: mision_orbita.py
+# Curso: Principios de Programación 1 - SOFT-01
+# Sección: SCV6
+# Integrante: Katherine Angulo Angulo
+# Fecha: octubre de 2026
+# Versión: 1.0
+# Propósito: Calcular los recursos necesarios para una misión espacial.
 # Constantes de la misión
 CONSUMO_COMBUSTIBLE_DIA = 8
 RESERVA_COMBUSTIBLE = 10
