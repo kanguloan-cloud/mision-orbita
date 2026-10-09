@@ -40,3 +40,4 @@ python avance1/ejercicio4_lanzamiento.py
 ## Documentación
 
 El PDF contiene el análisis de los problemas, las tablas de variables, los diagramas de flujo, el código y los casos de prueba.
+Archivo PDF: `documentacion/avance1.pdf`
