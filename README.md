@@ -18,8 +18,7 @@ Este proyecto contiene cuatro programas desarrollados en Python para representar
 - avance1/ejercicio2_combustible.py: verificación del combustible.
 - avance1/ejercicio3_soporte_tripulacion.py: verificación de oxígeno y provisiones.
 - avance1/ejercicio4_lanzamiento.py: autorización del lanzamiento.
-- Documentación/avance1.pdf: documentación del primer avance.
-
+-- `documentacion/avance1.pdf`: documentación del primer avance.
 ## Requisitos
 
 - Python 3 instalado.
