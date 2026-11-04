@@ -14,12 +14,11 @@ Este proyecto contiene cuatro programas desarrollados en Python para representar
 
 ## Estructura del repositorio
 
-- avance1/mision_orbita.py: cálculo de recursos necesarios.
-- avance1/ejercicio2_combustible.py: verificación del combustible.
-- avance1/ejercicio3_soporte_tripulacion.py: verificación de oxígeno y provisiones.
-- avance1/ejercicio4_lanzamiento.py: autorización del lanzamiento.
-- Documentación/avance1.pdf: documentación del primer avance.
-
+- `avance1/mision_orbita.py`: cálculo de recursos necesarios.
+- `avance1/ejercicio2_combustible.py`: verificación del combustible.
+- `avance1/ejercicio3_soporte_tripulacion.py`: verificación de oxígeno y provisiones.
+- `avance1/ejercicio4_lanzamiento.py`: autorización del lanzamiento.
+- `documentacion/avance1.pdf`: documentación del primer avance.
 ## Requisitos
 
 - Python 3 instalado.
@@ -40,3 +39,4 @@ python avance1/ejercicio4_lanzamiento.py
 ## Documentación
 
 El PDF contiene el análisis de los problemas, las tablas de variables, los diagramas de flujo, el código y los casos de prueba.
+Archivo PDF: `documentacion/avance1.pdf`
