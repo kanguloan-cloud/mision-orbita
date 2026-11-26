@@ -1,4 +1,3 @@
-
 # Misión Órbita
 
 ## Proyecto: Preparación y desarrollo de una misión espacial
@@ -13,43 +12,51 @@
 
 Misión Órbita es un proyecto académico desarrollado en Python que simula diferentes etapas de una misión espacial. Mediante programas de consola se realizan cálculos, verificaciones y simulaciones relacionadas con los recursos necesarios para el viaje, las actividades científicas y el regreso de la tripulación.
 
-
 El proyecto se desarrolla progresivamente mediante tres avances académicos, incorporando cálculos de recursos, validaciones, toma de decisiones, simulación de misiones y registro de resultados.
 
 ## Avance 1: Preparación de la misión
 
 El primer avance comprende cuatro programas desarrollados en Python para representar diferentes etapas de la preparación de una misión espacial.
 
-Archivos principales:
-
-### Primer avance: Preparación de la misión
+**Archivos principales:**
 
 - `avance1/mision_orbita.py`: cálculo de recursos necesarios.
 - `avance1/ejercicio2_combustible.py`: verificación del combustible.
 - `avance1/ejercicio3_soporte_tripulacion.py`: verificación de oxígeno y provisiones.
 - `avance1/ejercicio4_lanzamiento.py`: autorización del lanzamiento.
 
-### Segundo avance: Desarrollo de la misión
+## Avance 2: Desarrollo de la misión
+
+El segundo avance incorpora la simulación de actividades de exploración científica y la evaluación del regreso de la tripulación.
+
+**Archivos principales:**
 
 - `avance2/ejercicio7_exploracion.py`: simulación de actividades de exploración científica.
 - `avance2/ejercicio8_regreso.py`: evaluación del regreso y supervivencia de la tripulación.
 
-### Documentación
+## Avance 3: Sistema integrado Misión Órbita
 
-- `documentacion/avance1.pdf`: documentación del primer avance.
-- `documentacion/ejercicio7_exploracion.pdf`: análisis, tabla de variables, diagrama de flujo, código y casos de prueba del ejercicio 7.
-- `documentacion/ejercicio8_regreso.pdf`: análisis, tabla de variables, diagrama de flujo, código y casos de prueba del ejercicio 8.
+El tercer avance integra las diferentes etapas del proyecto en un solo sistema desarrollado en Python. Permite planificar y ejecutar misiones, verificar recursos, realizar actividades de exploración, simular el regreso y registrar los resultados en un historial de misiones.
+
+**Archivo principal:**
+
+- `avance3/mision_orbita.py`: programa integrado del sistema Misión Órbita.
+
+**Documentación:**
+
+- `documentacion/avance3_mision_orbita.pdf`: documentación técnica, tablas de variables, casos de prueba, evidencias de ejecución y enlace a los diagramas de flujo.
 
 ## Requisitos
 
 - Python 3 instalado.
 - Visual Studio Code o un editor de código compatible.
+- Terminal de comandos para ejecutar los programas.
 
-## Cómo ejecutar el sistema integrado
+## Cómo ejecutar los programas
 
 Desde la carpeta principal del repositorio, ejecutar los siguientes comandos:
 
-**Primer avance**
+**Primer avance:**
 
 ```bash
 python avance1/mision_orbita.py
@@ -58,11 +65,17 @@ python avance1/ejercicio3_soporte_tripulacion.py
 python avance1/ejercicio4_lanzamiento.py
 ```
 
-**Segundo avance**
+**Segundo avance:**
 
 ```bash
 python avance2/ejercicio7_exploracion.py
 python avance2/ejercicio8_regreso.py
+```
+
+**Tercer avance – Sistema integrado:**
+
+```bash
+python avance3/mision_orbita.py
 ```
 
 ## Convenciones de programación
@@ -71,11 +84,12 @@ python avance2/ejercicio8_regreso.py
 - Constantes escritas en mayúsculas y separadas por guiones bajos.
 - Indentación de cuatro espacios.
 - Uso de estructuras condicionales y ciclos de repetición.
-- Programas ejecutados desde la consola de Python.
+- Organización del código mediante funciones.
+- Ejecución de los programas desde la consola de Python.
 
 ## Documentación del proyecto
 
-La carpeta `documentacion` contiene los archivos PDF correspondientes a los avances realizados. Cada documento incluye el análisis del problema, las tablas de variables, los diagramas de flujo, el código fuente y los casos de prueba con sus evidencias de ejecución.
+La carpeta `documentacion` contiene los archivos PDF correspondientes a los avances realizados. Estos documentos incluyen el análisis de los problemas, las tablas de variables, los diagramas de flujo, el código fuente y los casos de prueba con sus evidencias de ejecución.
 
 ## Repositorio
 
