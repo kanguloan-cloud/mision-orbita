@@ -1,3 +1,4 @@
+
 # Misión Órbita
 
 ## Proyecto: Preparación y desarrollo de una misión espacial
@@ -8,11 +9,18 @@
 **Integrante:** Katherine Angulo Angulo  
 **Docente:** Verónica Mora Lezcano
 
-## Descripción del proyecto
+## Descripción general del proyecto
 
 Misión Órbita es un proyecto académico desarrollado en Python que simula diferentes etapas de una misión espacial. Mediante programas de consola se realizan cálculos, verificaciones y simulaciones relacionadas con los recursos necesarios para el viaje, las actividades científicas y el regreso de la tripulación.
 
-## Estructura del repositorio
+
+El proyecto se desarrolla progresivamente mediante tres avances académicos, incorporando cálculos de recursos, validaciones, toma de decisiones, simulación de misiones y registro de resultados.
+
+## Avance 1: Preparación de la misión
+
+El primer avance comprende cuatro programas desarrollados en Python para representar diferentes etapas de la preparación de una misión espacial.
+
+Archivos principales:
 
 ### Primer avance: Preparación de la misión
 
@@ -37,7 +45,7 @@ Misión Órbita es un proyecto académico desarrollado en Python que simula dife
 - Python 3 instalado.
 - Visual Studio Code o un editor de código compatible.
 
-## Cómo ejecutar los programas
+## Cómo ejecutar el sistema integrado
 
 Desde la carpeta principal del repositorio, ejecutar los siguientes comandos:
 
